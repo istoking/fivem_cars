@@ -3,6 +3,5 @@ function AddTextEntry(key, value)
 end
 
 Citizen.CreateThread(function()
-	-- Pagani Zonda Polizia
 	AddTextEntry('16charger', '2016 Dodge Charger SRT')
 end)
