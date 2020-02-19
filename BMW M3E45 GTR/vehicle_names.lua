@@ -3,6 +3,5 @@ function AddTextEntry(key, value)
 end
 
 Citizen.CreateThread(function()
-	-- Pagani Zonda Polizia
 	AddTextEntry('m3e46', 'BMW M3E46 GTR')
 end)
