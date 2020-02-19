@@ -3,6 +3,5 @@ function AddTextEntry(key, value)
 end
 
 Citizen.CreateThread(function()
-	-- Pagani Zonda Polizia
 	AddTextEntry('gauntlet6str', '6STR Bravado Gauntlet Custom')
 end)
